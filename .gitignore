@@ -1,0 +1,8 @@
+*.pyc
+*~
+.idea
+.vscode
+__pycache__
+venv
+maze.svg
+readMe.pptx

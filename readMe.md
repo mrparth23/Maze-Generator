@@ -1,8 +1,11 @@
 # Maze Generator
 
-This is a python project to generate a random maze of dimension m x n. It implements the Depth First Search algorithm and graph theory to remove certain edges based on the cell matrix such that it removes all the cycles from a matrix. Thus forming a maze based on the inputs given by User. User has a choice for any dimensions as well as any colour combination for background and foreground in real time.
-
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip?style=for-the-badge) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/svglib?style=for-the-badge) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/reportlab?style=for-the-badge)
+
+- This is a python project to generate a random maze of dimension m x n.
+- It implements the Depth First Search algorithm and graph theory to remove certain edges based on the cell matrix such that it removes all the cycles from a matrix.
+- Thus forming a maze based on the inputs given by User.
+- User has a choice for any dimensions as well as any colour combination for background and foreground in real time.
 
 ![](maze.gif)
 
